@@ -104,10 +104,17 @@ const Index = () => {
 
       <section className="py-20 px-4">
         <div className="container mx-auto text-center animate-fade-in">
-          <div className="max-w-3xl mx-auto">
-            <h2 className="font-cormorant text-5xl md:text-6xl font-bold text-foreground mb-6">
-              Создаём шедевры <br />с душой и мастерством
-            </h2>
+          <div className="max-w-4xl mx-auto">
+            <div className="flex flex-col md:flex-row items-center justify-center gap-8 mb-6">
+              <img 
+                src="https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/541c11d4-185e-4557-abbf-130c4372699c.jpg"
+                alt="Логотип"
+                className="h-32 w-32 md:h-40 md:w-40 object-contain animate-scale-in"
+              />
+              <h2 className="font-cormorant text-5xl md:text-6xl font-bold text-foreground">
+                Создаём шедевры <br />с душой и мастерством
+              </h2>
+            </div>
             <p className="text-lg text-muted-foreground mb-8">
               15 лет безупречного качества и индивидуального подхода к каждому клиенту
             </p>
