@@ -81,11 +81,15 @@ const Index = () => {
       <header className="bg-white/80 backdrop-blur-sm shadow-sm sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-3 animate-fade-in">
-            <img 
-              src="https://cdn.poehali.dev/files/logoza.ru.png" 
-              alt="Куда иголка, туда и нитка"
-              className="h-16 w-auto"
-            />
+            <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center">
+              <Icon name="Sparkles" className="text-white" size={24} />
+            </div>
+            <div>
+              <h1 className="font-cormorant text-2xl font-bold text-foreground">
+                Куда иголка, туда и нитка
+              </h1>
+              <p className="text-sm text-muted-foreground">Ателье премиум-класса</p>
+            </div>
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#services" className="text-foreground hover:text-primary transition-colors">Услуги</a>
