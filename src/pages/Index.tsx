@@ -35,19 +35,19 @@ const Index = () => {
       name: 'Елена Петрова',
       role: 'Мастер-закройщик',
       experience: '15 лет опыта',
-      image: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400'
+      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/64742f10-dbd9-4cd6-a659-65464337a523.jpg'
     },
     {
       name: 'Мария Соколова',
       role: 'Швея-мотористка',
       experience: '12 лет опыта',
-      image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400'
+      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/ca37f52f-6aba-4956-a687-72b95f9b804a.jpg'
     },
     {
       name: 'Анна Кузнецова',
       role: 'Дизайнер одежды',
       experience: '10 лет опыта',
-      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400'
+      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/f76cfcaf-5d23-4136-8908-a91c19185f79.jpg'
     }
   ];
 
