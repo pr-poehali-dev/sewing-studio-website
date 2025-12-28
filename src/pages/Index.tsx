@@ -35,19 +35,19 @@ const Index = () => {
       name: 'Елена Петрова',
       role: 'Мастер-закройщик',
       experience: '15 лет опыта',
-      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/64742f10-dbd9-4cd6-a659-65464337a523.jpg'
+      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/eb3781c5-ae1a-4fce-971d-3453717c56a4.jpg'
     },
     {
       name: 'Мария Соколова',
       role: 'Швея-мотористка',
       experience: '12 лет опыта',
-      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/ca37f52f-6aba-4956-a687-72b95f9b804a.jpg'
+      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/62d746d0-f91a-4221-b0f4-815ee8dc5d2b.jpg'
     },
     {
       name: 'Анна Кузнецова',
       role: 'Дизайнер одежды',
       experience: '10 лет опыта',
-      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/f76cfcaf-5d23-4136-8908-a91c19185f79.jpg'
+      image: 'https://cdn.poehali.dev/projects/69198397-0f0c-47f6-bae2-854602c82075/files/bc7c22d8-2a03-4eb3-af3c-dce5cd6004bb.jpg'
     }
   ];
 
